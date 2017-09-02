@@ -1,0 +1,6 @@
+{
+    "require": {
+        "eluceo/ical": "^0.12.1",
+        "facebook/graph-sdk": "^5.6"
+    }
+}
